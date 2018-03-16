@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_aEt_4SkkEeiN6cB7OZcMxQ" label="DEV_ETL_GIT" description="" language="java" technicalLabel="DEV_ETL_GIT" creationDate="2018-03-16T14:13:32.170+0000" author="_aEt_4ikkEeiN6cB7OZcMxQ" productVersion="Talend Data Fabric-6.5.1.20180116_1512" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/smrutiranjannayak/abinbev_dev.git&quot;,&quot;login&quot;:&quot;srnayak07@gmail.com&quot;,&quot;passwd&quot;:&quot;MVaJG6a7T8Hkehs0Ntcapw==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="MDM"/>
+  <TalendProperties:User xmi:id="_aEt_4ikkEeiN6cB7OZcMxQ" login="snayak@talend.com" firstName="SR" lastName="NAYAK" type="MDM" additionnalData="{}"/>
+</xmi:XMI>
