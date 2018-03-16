@@ -577,4 +577,5 @@
     <migrationTask xmi:id="_a5d3_ykkEeiN6cB7OZcMxQ" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_aEt_4ikkEeiN6cB7OZcMxQ" login="snayak@talend.com" firstName="SR" lastName="NAYAK" type="MDM" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_HUa5ESllEei_6s6D1wuC3g" login="sourav.nayak@ab-inbev.com" firstName="sourav" lastName="nayak" type="MDM" additionnalData="{}"/>
 </xmi:XMI>
